@@ -55,26 +55,9 @@
 ### Data Exploration
 #### Hypothesis to test:
 - Is there a statistically significant difference in the log error of properties with different number of bathrooms
-    
-    $h_0$:
-    
-    
 - Is there a statistically significant difference in the log error of properties with different number of bedrooms
-    
-    $h_0$:
 - Is there a statistically significant difference in the log error between the clusters created using location features
-   
-   $h_0$:
-   
 - Is there a statistically significant difference in the log error between the clusters created using different features of the property
-    
-    $h_0$:
-
-
-
-
-
-
 ### Modeling & Evaluation
 - Create a baseline model
 - Decide whether to use clusters as features
