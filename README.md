@@ -56,19 +56,19 @@
 #### Hypothesis to test:
 - Is there a statistically significant difference in the log error of properties with different number of bathrooms
     
-    `$H_0$`:
+    $h_0$:
     
     
 - Is there a statistically significant difference in the log error of properties with different number of bedrooms
     
-    `$H_0$`:
+    $h_0$:
 - Is there a statistically significant difference in the log error between the clusters created using location features
    
-   `$H_0$`:
+   $h_0$:
    
 - Is there a statistically significant difference in the log error between the clusters created using different features of the property
     
-    `$H_0$`:
+    $h_0$:
 
 
 
