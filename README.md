@@ -35,7 +35,10 @@
 
 ## Phases:
 ### Plan:
-- 
+- Outline the steps to take for the project
+- Create the necessary repositories
+- Brainstorm different approaches
+- Think of different hypothesis to test on
 
 ### Data Acquisition:
 -	Data is acquired from the CodeUp Database 
@@ -53,6 +56,10 @@
 -	All of the necessary functions to reproduce the work in this phase can be found in **wrangle_zillow.py** module.
 
 ### Data Exploration
+- Explore relationship between various features and the target variable
+- Notedown key discoveries
+- Cluster to aid exploration
+- Perform statistical tests
 #### Hypothesis to test:
 - Is there a statistically significant difference in the log error of properties with different number of bathrooms
 - Is there a statistically significant difference in the log error of properties with different number of bedrooms
@@ -69,6 +76,7 @@
 ### Conclusion
 - Summarize the process
 - Note down the findings
+- Whats next?
 
 ## How to reproduce?
 - Once credentials are provided
